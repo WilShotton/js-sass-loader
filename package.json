@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A Webpack loader to add JavaScript variables to SASS",
   "author": "Wil Shotton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WilShotton/js-sass-loader.git"
+  },
   "main": "./index.js",
   "scripts": {
     "start": "webpack"
